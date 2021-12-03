@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/topicsMenu"
+        android:title="@string/topics">
+        <menu />
+    </item>
+    <item
+        android:id="@+id/countriesMenu"
+        android:title="@string/countries">
+        <menu />
+    </item>
+    <item
+        android:id="@+id/languageMenu"
+        android:title="@string/languages">
+        <menu />
+    </item>
+</menu>

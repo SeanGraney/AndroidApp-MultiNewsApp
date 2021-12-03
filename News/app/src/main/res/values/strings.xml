@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+    <string name="topics">Topics</string>
+    <string name="countries">Countries</string>
+    <string name="languages">Languages</string>
+</resources>
